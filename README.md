@@ -106,6 +106,6 @@ Feel free to reach out for any assistance!
 
 [Grab me a koffee](https://www.buymeacoffee.com/komfi)
 
-[btc donation](bitcoin:3CXA61k2ucSd3noNdkA7FEd2GDbQWvfTLZ)
+- btc donation: 3CXA61k2ucSd3noNdkA7FEd2GDbQWvfTLZ
 
 ---
