@@ -6,12 +6,13 @@ Welcome to KomfiBot, a Discord Image Generation Bot based on the ComfyUI reposit
 
 ### Prerequisites
 
-Before you begin, make sure you have the following installed:
+Before you begin, make sure you have the following installed/configured or understood:
 
 - Python 3.x
 - [discord.py](https://discordpy.readthedocs.io/en/latest/index.html)
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
 - [watchdog](https://pypi.org/project/watchdog/)
+- [checkpoint- Realistic Vision V3.0 VAE](https://huggingface.co/SG161222/Realistic_Vision_V3.0_VAE)
 
 ### Installation Steps
 
