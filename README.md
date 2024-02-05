@@ -1,8 +1,8 @@
 # README.md
 
-## ComfyUIBot - Discord Image Generation Bot
+## KomfiBot - Discord Image Generation Bot
 
-Welcome to ComfyUIBot, a Discord Image Generation Bot based on the ComfyUI repository. This guide will walk you through the installation process and configuration for your own usage.
+Welcome to KomfiBot, a Discord Image Generation Bot based on the ComfyUI repository. This guide will walk you through the installation process and configuration for your own usage.
 
 ### Prerequisites
 
